@@ -1,0 +1,116 @@
+
+Groww App details : 
+
+Ph no : 8985845717
+Pwd : P8247370446
+Pin : 1234
+Groww Dmat account : 1208870034935379
+Unique Client Code : 0534447113
+DP ID : 12088700
+Depository Psrticipant : Nextbillion Technology Pvt Ltd.
+Depository Name : CDSL
+
+UAN : 101441829041
+
+====================
+
+b.praneeth007@gmail
+Pandu@321
+
+====================
+
+hdfc acc details : 
+
+AC : 50100265501220
+IDFC : HDFC0004886
+Bank : HDFC
+Name : B Praneeth.
+
+====================
+
+Upstock
+
+Ph no : 8247370446
+Pin : 717664
+
+=====================
+
+
+Paypal pwd : Paypal@321
+
+Userlytics pwd : Pandu@345
+Testingtime : Pandu@543
+
+=========================
+
+IRCTC details
+
+Username :  	Bommideni_95
+Password : Praneeth@123
+
+=========================
+ 
+Gl Account : 
+
+Username : b.praneeth007@gmail.com
+PWD : Bommideni@123
+
+bpraneeth007
+Bommideni@123
+
+Liqiu load AC : 
+
+b.praneeth007@gmail.com
+Pandu@123
+
+	CL05746630
+
+=======================
+
+Infosys :
+
+UN : b.praneeth007@gmail
+PWD : Praneeth@123
+
+Naming convention for the submission file: <batch name>.<course code>.<option selected>.<your name>.pdf example: PGPCCSep22.AWS.option3.JohnDoe.pdf
+PGPCCOct23.AWS.option1.BommideniPraneeth.pdf
+
+PGPCCOct23.AWS.SNS and SQS TIO.BommideniPraneeth.pdf
+
+
+Prepared detailed Testing Procedure for the new functionalities.
+
+
+=========================
+
+Gmail : 
+
+pwd : Pandu@321
+
+PWD for praneethbommideni@gmail.com
+Stayconnected@123
+
+
+
+Amazon account : 
+
+praneethbommideni@gmail  
+7075667137
+Shantha@123
+
+
+========================
+
+github credentils :
+
+praneethbommideni@gmail
+Staysafehealth@2024
+
+
+git remote add origin https://github.com/Praneeth2895/GL-Practice-sample1.git
+git branch -M main
+git push -u origin main
+
+
+www.linkedin.com/in/praneeth-bommideni-492b6413a
+
